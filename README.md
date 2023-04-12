@@ -8,4 +8,6 @@ Movement is either possible via drag'n'drop or text commands.
 The cube can be solved using the Kociemba algorithm or by random shuffling (Not recommended).
 Movement speed and shuffle settings can be changed by a slider.
 
+WebGL Version: https://codevonchris.itch.io/rubikscube-unity
+
 Inspired, adapted and extended from Megalomobiles tutorial: https://www.youtube.com/watch?v=JN9vx0veZ-c&list=PLuq_iMEtykn-ZOJyx2cY_k9WkixAhv11n
