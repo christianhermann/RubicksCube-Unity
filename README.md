@@ -10,4 +10,6 @@ Movement speed and shuffle settings can be changed by a slider.
 
 WebGL Version: https://codevonchris.itch.io/rubikscube-unity
 
+![screenshot](https://github.com/christianhermann/RubicksCube-Unity/blob/main/cube_example.PNG)
+
 Inspired, adapted and extended from Megalomobiles tutorial: https://www.youtube.com/watch?v=JN9vx0veZ-c&list=PLuq_iMEtykn-ZOJyx2cY_k9WkixAhv11n
